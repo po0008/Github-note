@@ -6,3 +6,5 @@ Githubの使い方からすべて忘れたくないことをマークダウン�
 - TypeScript
 - Python
 - HTML,CSS
+
+https://badgen.net/badge/:subject/:status/:color?icon=github
